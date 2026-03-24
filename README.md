@@ -17,6 +17,15 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the Universi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuravishan&theme=tokyonight" width="48%" />
 </div>
 
+
+![Madhura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuravishan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuravishan&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhuraravishan/)
+
 ### 📫 Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/madhuraravishan/
 * **Email:** madhuraravishan@gmail.com
