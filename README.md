@@ -24,11 +24,7 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the **Univer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuravishan&theme=tokyonight" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuravishan&layout=compact&theme=radical" />
-</div>
 
----
 
 ### 📫 Connect with me:
 
