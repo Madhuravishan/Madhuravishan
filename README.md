@@ -32,6 +32,16 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the **Univer
 
 ### 📫 Connect with me:
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/madhuraravishan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect with me:
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/madhuraravishan/)
 
 ---
