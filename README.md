@@ -43,14 +43,12 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the **Univer
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,c,arduino,photoshop" />
 </div>
 
+---
+
 ### 📊 GitHub Stats & Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhuravishan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuravishan&theme=tokyonight" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuravishan&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuravishan&theme=tokyonight" width="48%" />
 </div>
 
 ---
@@ -74,7 +72,7 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the **Univer
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,c,arduino,photoshop,git,linux,vscode" />
 </div>
 
-
+---
 
 ## 📈 Activity Graph
 
@@ -82,13 +80,13 @@ I'm a first-year BSc (Hons) Information Technology undergraduate at the **Univer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuravishan&theme=tokyonight&hide_border=true" />
 </div>
 
-
+---
 
 ## 🎯 Current Focus
 
 ```yaml
 Focus:
-  Learning: [Data Structures & Algorithms, React, Advanced JS]
+  Learning: [Data Structures & Algorithms, React, Advanced JS, OOP Java]
   Building: [Expense Tracker (Django), CV Applications]
   Exploring: [3D Modeling (Fusion), Cinematic Photography]
   Open_To: [Software Engineering Internships, Robotics R&D]
