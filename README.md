@@ -127,7 +127,7 @@ A robotics project focusing on autonomous hardware orchestration and spatial pat
 ## 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Madhuravishan/Madhuravishan/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Madhuravishan/Madhuravishan/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
